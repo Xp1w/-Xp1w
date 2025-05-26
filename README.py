@@ -1,9 +1,9 @@
-# بابلو#
+#Xp1w
 
 import random
 num = 0
-oo = 'ieisjqwertyuiopasdfghjzxcvbnm'
-gg = 'qwertyuiopasdfghjklzxcvbnm1234567890'
+oo = '112233445566778899'
+gg = 'QqWwEeRrTtYyUuIiOoPpAaSsDdFfGgHhJjKkLlZzXxCcVvBbNnMm'
 
 while True:
 	user = random.choice(gg)+random.choice(gg)+random.choice(gg)+random.choice(oo)+random.choice(gg)+random.choice(gg)
